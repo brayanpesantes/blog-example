@@ -4,6 +4,6 @@ import preact from "@astrojs/preact";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "http://localhost:4321/",
-  integrations: [preact()]
+  site: "https://blog-practic.netlify.app/",
+  integrations: [preact()],
 });
